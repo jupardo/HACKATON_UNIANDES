@@ -1,0 +1,119 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/julianpardo/senehack/prueba_concepto/Application/src/main/AndroidManifest.xml:16:1-57:12
+	package
+		ADDED from /Users/julianpardo/senehack/prueba_concepto/Application/src/main/AndroidManifest.xml:17:5-47
+	android:versionName
+		ADDED from /Users/julianpardo/senehack/prueba_concepto/Application/src/main/AndroidManifest.xml:19:5-30
+		INJECTED from /Users/julianpardo/senehack/prueba_concepto/Application/src/main/AndroidManifest.xml
+		INJECTED from /Users/julianpardo/senehack/prueba_concepto/Application/src/main/AndroidManifest.xml
+	android:versionCode
+		ADDED from /Users/julianpardo/senehack/prueba_concepto/Application/src/main/AndroidManifest.xml:18:5-28
+		INJECTED from /Users/julianpardo/senehack/prueba_concepto/Application/src/main/AndroidManifest.xml
+		INJECTED from /Users/julianpardo/senehack/prueba_concepto/Application/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/julianpardo/senehack/prueba_concepto/Application/src/main/AndroidManifest.xml:16:11-69
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from /Users/julianpardo/senehack/prueba_concepto/Application/src/main/AndroidManifest.xml:23:5-74
+	android:name
+		ADDED from /Users/julianpardo/senehack/prueba_concepto/Application/src/main/AndroidManifest.xml:23:22-71
+uses-permission#android.permission.BLUETOOTH
+ADDED from /Users/julianpardo/senehack/prueba_concepto/Application/src/main/AndroidManifest.xml:24:5-68
+	android:name
+		ADDED from /Users/julianpardo/senehack/prueba_concepto/Application/src/main/AndroidManifest.xml:24:22-65
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/julianpardo/senehack/prueba_concepto/Application/src/main/AndroidManifest.xml:25:5-79
+	android:name
+		ADDED from /Users/julianpardo/senehack/prueba_concepto/Application/src/main/AndroidManifest.xml:25:22-76
+application
+ADDED from /Users/julianpardo/senehack/prueba_concepto/Application/src/main/AndroidManifest.xml:28:5-55:19
+MERGED from [com.android.support:gridlayout-v7:25.0.1] /Users/julianpardo/.android/build-cache/f0c13f08fc07429d95066a6c8b20201ba4c40b46/output/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:cardview-v7:25.0.1] /Users/julianpardo/.android/build-cache/048adf7d620c95e00a6ed88c77d5154e6ca72e43/output/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:25.0.1] /Users/julianpardo/.android/build-cache/49440e11e191b40170b4e7bb31fa5c7e0b2f3d95/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:25.0.1] /Users/julianpardo/.android/build-cache/b9b70f791f1238583d0c4af387601ffa6514b4d3/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.0.1] /Users/julianpardo/.android/build-cache/2bf8ef804ee5b107188d8aa772f55a19a4890fca/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.0.1] /Users/julianpardo/.android/build-cache/5172412075beea46b9c3f967d445071785bc018a/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.0.1] /Users/julianpardo/.android/build-cache/412ee884c706f642d73624313338512e7ef12809/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.0.1] /Users/julianpardo/.android/build-cache/635665b515a8183c2cef9ff77331e68afc0cc34d/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.0.1] /Users/julianpardo/.android/build-cache/ad1d211d3353ace5360116649f092bd705341598/output/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:25.0.1] /Users/julianpardo/.android/build-cache/f863694c34c52a1e2aab00b754757063c63956a2/output/AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-compat:25.0.1] /Users/julianpardo/.android/build-cache/bdbd7c060cddc4bd69e96f2e561a511b6444c223/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/julianpardo/.android/build-cache/4c76baa13a3ccfd710571a4f68e0bcee475aec0c/output/AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from /Users/julianpardo/senehack/prueba_concepto/Application/src/main/AndroidManifest.xml:31:9-41
+	android:allowBackup
+		ADDED from /Users/julianpardo/senehack/prueba_concepto/Application/src/main/AndroidManifest.xml:29:9-35
+	android:icon
+		ADDED from /Users/julianpardo/senehack/prueba_concepto/Application/src/main/AndroidManifest.xml:30:9-42
+	android:theme
+		ADDED from /Users/julianpardo/senehack/prueba_concepto/Application/src/main/AndroidManifest.xml:32:9-40
+activity#com.aduech.android.bluetoothchat.MainActivity
+ADDED from /Users/julianpardo/senehack/prueba_concepto/Application/src/main/AndroidManifest.xml:33:9-36:48
+	android:label
+		ADDED from /Users/julianpardo/senehack/prueba_concepto/Application/src/main/AndroidManifest.xml:36:13-45
+	android:configChanges
+		ADDED from /Users/julianpardo/senehack/prueba_concepto/Application/src/main/AndroidManifest.xml:35:13-63
+	android:name
+		ADDED from /Users/julianpardo/senehack/prueba_concepto/Application/src/main/AndroidManifest.xml:34:13-73
+activity#com.aduech.android.bluetoothchat.DeviceListActivity
+ADDED from /Users/julianpardo/senehack/prueba_concepto/Application/src/main/AndroidManifest.xml:37:9-41:77
+	android:label
+		ADDED from /Users/julianpardo/senehack/prueba_concepto/Application/src/main/AndroidManifest.xml:40:13-50
+	android:configChanges
+		ADDED from /Users/julianpardo/senehack/prueba_concepto/Application/src/main/AndroidManifest.xml:39:13-63
+	android:theme
+		ADDED from /Users/julianpardo/senehack/prueba_concepto/Application/src/main/AndroidManifest.xml:41:13-74
+	android:name
+		ADDED from /Users/julianpardo/senehack/prueba_concepto/Application/src/main/AndroidManifest.xml:38:13-79
+activity#com.aduech.android.bluetoothchat.Splashscreen
+ADDED from /Users/julianpardo/senehack/prueba_concepto/Application/src/main/AndroidManifest.xml:42:9-51:20
+	android:label
+		ADDED from /Users/julianpardo/senehack/prueba_concepto/Application/src/main/AndroidManifest.xml:44:13-45
+	android:theme
+		ADDED from /Users/julianpardo/senehack/prueba_concepto/Application/src/main/AndroidManifest.xml:45:13-77
+	android:name
+		ADDED from /Users/julianpardo/senehack/prueba_concepto/Application/src/main/AndroidManifest.xml:43:13-73
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/julianpardo/senehack/prueba_concepto/Application/src/main/AndroidManifest.xml:46:13-50:29
+action#android.intent.action.MAIN
+ADDED from /Users/julianpardo/senehack/prueba_concepto/Application/src/main/AndroidManifest.xml:47:17-69
+	android:name
+		ADDED from /Users/julianpardo/senehack/prueba_concepto/Application/src/main/AndroidManifest.xml:47:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/julianpardo/senehack/prueba_concepto/Application/src/main/AndroidManifest.xml:49:17-77
+	android:name
+		ADDED from /Users/julianpardo/senehack/prueba_concepto/Application/src/main/AndroidManifest.xml:49:27-74
+activity#com.aduech.android.bluetoothchat.Mainmenu
+ADDED from /Users/julianpardo/senehack/prueba_concepto/Application/src/main/AndroidManifest.xml:52:9-78
+	android:name
+		ADDED from /Users/julianpardo/senehack/prueba_concepto/Application/src/main/AndroidManifest.xml:52:19-75
+activity#com.aduech.android.bluetoothchat.Help
+ADDED from /Users/julianpardo/senehack/prueba_concepto/Application/src/main/AndroidManifest.xml:53:9-74
+	android:name
+		ADDED from /Users/julianpardo/senehack/prueba_concepto/Application/src/main/AndroidManifest.xml:53:19-71
+activity#com.aduech.android.bluetoothchat.About
+ADDED from /Users/julianpardo/senehack/prueba_concepto/Application/src/main/AndroidManifest.xml:54:9-84
+	android:name
+		ADDED from /Users/julianpardo/senehack/prueba_concepto/Application/src/main/AndroidManifest.xml:54:19-72
+uses-sdk
+INJECTED from /Users/julianpardo/senehack/prueba_concepto/Application/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:gridlayout-v7:25.0.1] /Users/julianpardo/.android/build-cache/f0c13f08fc07429d95066a6c8b20201ba4c40b46/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:cardview-v7:25.0.1] /Users/julianpardo/.android/build-cache/048adf7d620c95e00a6ed88c77d5154e6ca72e43/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:25.0.1] /Users/julianpardo/.android/build-cache/49440e11e191b40170b4e7bb31fa5c7e0b2f3d95/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.0.1] /Users/julianpardo/.android/build-cache/b9b70f791f1238583d0c4af387601ffa6514b4d3/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.0.1] /Users/julianpardo/.android/build-cache/2bf8ef804ee5b107188d8aa772f55a19a4890fca/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.0.1] /Users/julianpardo/.android/build-cache/5172412075beea46b9c3f967d445071785bc018a/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.0.1] /Users/julianpardo/.android/build-cache/412ee884c706f642d73624313338512e7ef12809/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.0.1] /Users/julianpardo/.android/build-cache/635665b515a8183c2cef9ff77331e68afc0cc34d/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.0.1] /Users/julianpardo/.android/build-cache/ad1d211d3353ace5360116649f092bd705341598/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.0.1] /Users/julianpardo/.android/build-cache/f863694c34c52a1e2aab00b754757063c63956a2/output/AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-compat:25.0.1] /Users/julianpardo/.android/build-cache/bdbd7c060cddc4bd69e96f2e561a511b6444c223/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/julianpardo/.android/build-cache/4c76baa13a3ccfd710571a4f68e0bcee475aec0c/output/AndroidManifest.xml:5:5-7:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.0.1] /Users/julianpardo/.android/build-cache/49440e11e191b40170b4e7bb31fa5c7e0b2f3d95/output/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /Users/julianpardo/senehack/prueba_concepto/Application/src/main/AndroidManifest.xml
+		INJECTED from /Users/julianpardo/senehack/prueba_concepto/Application/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/julianpardo/senehack/prueba_concepto/Application/src/main/AndroidManifest.xml
+		INJECTED from /Users/julianpardo/senehack/prueba_concepto/Application/src/main/AndroidManifest.xml

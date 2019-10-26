@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/julianpardo/senehack/prueba_concepto/Application/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/julianpardo/.android/build-cache/49440e11e191b40170b4e7bb31fa5c7e0b2f3d95/output/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/julianpardo/senehack/prueba_concepto/Application/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/julianpardo/.android/build-cache/49440e11e191b40170b4e7bb31fa5c7e0b2f3d95/output/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/julianpardo/senehack/prueba_concepto/Application/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/Users/julianpardo/.android/build-cache/49440e11e191b40170b4e7bb31fa5c7e0b2f3d95/output/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/Users/julianpardo/senehack/prueba_concepto/Application/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/julianpardo/.android/build-cache/49440e11e191b40170b4e7bb31fa5c7e0b2f3d95/output/res/layout-v21/notification_template_icon_group.xml"
+    }
+]

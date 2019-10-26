@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/julianpardo/.android/build-cache/2bf8ef804ee5b107188d8aa772f55a19a4890fca/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="/Users/julianpardo/Downloads/bluetoothchat-master/Application/build/intermediates/pre-dexed/debug/classes_aec54ee6be92224164e4de36ace5f069933764d6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/julianpardo/.android/build-cache/4c76baa13a3ccfd710571a4f68e0bcee475aec0c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/julianpardo/Downloads/bluetoothchat-master/Application/build/intermediates/pre-dexed/debug/classes_fd9441b58db4a4b97363c1b559e6b33cf92eae69.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/julianpardo/.android/build-cache/bdbd7c060cddc4bd69e96f2e561a511b6444c223/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="/Users/julianpardo/Downloads/bluetoothchat-master/Application/build/intermediates/pre-dexed/debug/classes_8714ccef6c6191eeb175ae26b585d97aed82ccf5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/julianpardo/.android/build-cache/ad1d211d3353ace5360116649f092bd705341598/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="/Users/julianpardo/Downloads/bluetoothchat-master/Application/build/intermediates/pre-dexed/debug/classes_bad5ffc3ca34eb3bd4cee630edb5f8d7ea6dbb1c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/julianpardo/.android/build-cache/412ee884c706f642d73624313338512e7ef12809/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="/Users/julianpardo/Downloads/bluetoothchat-master/Application/build/intermediates/pre-dexed/debug/classes_ee8dd0dd0360c5e6654adcae1e09ad2dcb57cf6c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/julianpardo/.android/build-cache/bdbd7c060cddc4bd69e96f2e561a511b6444c223/output/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="/Users/julianpardo/Downloads/bluetoothchat-master/Application/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_b856b6cd6f67a57fd2c4584096145141d2cc1770.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/julianpardo/.android/build-cache/635665b515a8183c2cef9ff77331e68afc0cc34d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="/Users/julianpardo/Downloads/bluetoothchat-master/Application/build/intermediates/pre-dexed/debug/classes_4847503f9e2954c6a51e76f685d18e4d998b8d7c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/julianpardo/.android/build-cache/635665b515a8183c2cef9ff77331e68afc0cc34d/output/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="/Users/julianpardo/Downloads/bluetoothchat-master/Application/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_b93a8c57068f7efc29cd00b416f997606dc77792.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/julianpardo/.android/build-cache/b9b70f791f1238583d0c4af387601ffa6514b4d3/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/julianpardo/Downloads/bluetoothchat-master/Application/build/intermediates/pre-dexed/debug/classes_b4788b686a78a3cb7fc14c1e17baabc7087397ba.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/julianpardo/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/julianpardo/Downloads/bluetoothchat-master/Application/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.0.2_5ffbcb857e3feca0689554a53b35aa380b887952.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/julianpardo/.android/build-cache/2bf8ef804ee5b107188d8aa772f55a19a4890fca/output/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="/Users/julianpardo/Downloads/bluetoothchat-master/Application/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_f0bb8cd08b5bbd775712ff23711837709cde9edc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/julianpardo/.android/build-cache/f0c13f08fc07429d95066a6c8b20201ba4c40b46/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4700f436ede140fb804204f806c9cc3f08e386f4">
+        <dex dex="/Users/julianpardo/Downloads/bluetoothchat-master/Application/build/intermediates/pre-dexed/debug/classes_1a48fa16547cd20c11f0018bada19cb31fc2bf69.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/julianpardo/.android/build-cache/048adf7d620c95e00a6ed88c77d5154e6ca72e43/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1108575c7dc7b7f5b378b3290ac90de81a9b8830">
+        <dex dex="/Users/julianpardo/Downloads/bluetoothchat-master/Application/build/intermediates/pre-dexed/debug/classes_8351a3a150524718b43b7e0247760f2dc2d9cb05.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/julianpardo/.android/build-cache/49440e11e191b40170b4e7bb31fa5c7e0b2f3d95/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="/Users/julianpardo/Downloads/bluetoothchat-master/Application/build/intermediates/pre-dexed/debug/classes_5aa960d6d91ba748d2310e2d3849810d65a1d68d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/julianpardo/.android/build-cache/f863694c34c52a1e2aab00b754757063c63956a2/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="/Users/julianpardo/Downloads/bluetoothchat-master/Application/build/intermediates/pre-dexed/debug/classes_856ad9aaae538986f6f82c8993060303e201f2e3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/julianpardo/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.1/support-annotations-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="/Users/julianpardo/Downloads/bluetoothchat-master/Application/build/intermediates/pre-dexed/debug/support-annotations-25.0.1_6f5ceb47e1c87dc598eab026035c5f59948396d2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/julianpardo/.android/build-cache/5172412075beea46b9c3f967d445071785bc018a/output/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="/Users/julianpardo/Downloads/bluetoothchat-master/Application/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_8235703ac2f19b491ceb8c9fe507c557603a3641.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/julianpardo/.android/build-cache/412ee884c706f642d73624313338512e7ef12809/output/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/Users/julianpardo/Downloads/bluetoothchat-master/Application/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_f3bb93b36e390777f2f3438ca6620ef34b6c24d5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/julianpardo/.android/build-cache/5172412075beea46b9c3f967d445071785bc018a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="/Users/julianpardo/Downloads/bluetoothchat-master/Application/build/intermediates/pre-dexed/debug/classes_ad7b818ad5d67fce1fda8aba75a1b121d8d73bae.jar" />
+    </item>
+
+</items>

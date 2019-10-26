@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "/Users/julianpardo/senehack/prueba_concepto/Application/build/intermediates/res/merged/debug/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/Users/julianpardo/.android/build-cache/49440e11e191b40170b4e7bb31fa5c7e0b2f3d95/output/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/julianpardo/senehack/prueba_concepto/Application/build/intermediates/res/merged/debug/anim/abc_popup_enter.xml",
+        "source": "/Users/julianpardo/.android/build-cache/49440e11e191b40170b4e7bb31fa5c7e0b2f3d95/output/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/Users/julianpardo/senehack/prueba_concepto/Application/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",
+        "source": "/Users/julianpardo/.android/build-cache/49440e11e191b40170b4e7bb31fa5c7e0b2f3d95/output/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/Users/julianpardo/senehack/prueba_concepto/Application/build/intermediates/res/merged/debug/anim/translate.xml",
+        "source": "/Users/julianpardo/senehack/prueba_concepto/Application/src/main/res/anim/translate.xml"
+    },
+    {
+        "merged": "/Users/julianpardo/senehack/prueba_concepto/Application/build/intermediates/res/merged/debug/anim/abc_popup_exit.xml",
+        "source": "/Users/julianpardo/.android/build-cache/49440e11e191b40170b4e7bb31fa5c7e0b2f3d95/output/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/Users/julianpardo/senehack/prueba_concepto/Application/build/intermediates/res/merged/debug/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/Users/julianpardo/.android/build-cache/49440e11e191b40170b4e7bb31fa5c7e0b2f3d95/output/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/julianpardo/senehack/prueba_concepto/Application/build/intermediates/res/merged/debug/anim/alpha.xml",
+        "source": "/Users/julianpardo/senehack/prueba_concepto/Application/src/main/res/anim/alpha.xml"
+    },
+    {
+        "merged": "/Users/julianpardo/senehack/prueba_concepto/Application/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
+        "source": "/Users/julianpardo/.android/build-cache/49440e11e191b40170b4e7bb31fa5c7e0b2f3d95/output/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/Users/julianpardo/senehack/prueba_concepto/Application/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
+        "source": "/Users/julianpardo/.android/build-cache/49440e11e191b40170b4e7bb31fa5c7e0b2f3d95/output/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/Users/julianpardo/senehack/prueba_concepto/Application/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
+        "source": "/Users/julianpardo/.android/build-cache/49440e11e191b40170b4e7bb31fa5c7e0b2f3d95/output/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/Users/julianpardo/senehack/prueba_concepto/Application/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
+        "source": "/Users/julianpardo/.android/build-cache/49440e11e191b40170b4e7bb31fa5c7e0b2f3d95/output/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/Users/julianpardo/senehack/prueba_concepto/Application/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
+        "source": "/Users/julianpardo/.android/build-cache/49440e11e191b40170b4e7bb31fa5c7e0b2f3d95/output/res/anim/abc_slide_in_top.xml"
+    }
+]
